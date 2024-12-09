@@ -19,9 +19,7 @@
 ## Dataset
 
 SFT 데이터셋의 경우 아래 링크에서 구할 수 있습니다.
-```
-https://huggingface.co/datasets/lsw0570168/ko-finance-corpus
-```
+<a href="https://huggingface.co/datasets/lsw0570168/ko-finance-corpus">https://huggingface.co/datasets/lsw0570168/ko-finance-corpus</a>
 
 ## Version History
 
